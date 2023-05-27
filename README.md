@@ -1,12 +1,12 @@
 ### Hello, I'm Océane 👋
 
-## About Me
+# About Me
 I am a aspiring FullStack Developer currently studying to acquire the necessary skills and knowledge in this field. I'm passionate about creating web applications and exploring various technologies to build innovative solutions. Currently, I reside in Reims, France.
 
-## Education
+# Education
 - Développeur Informatique (in progress)
 
-## Skills
+# Skills
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465](https://github.com/ocjpe/ocjpe/assets/111350630/66b2a5e0-da7a-4515-9313-91f2345437bc)
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3436613266313f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465](https://github.com/ocjpe/ocjpe/assets/111350630/729ac13b-923c-4015-8e14-52a82e57ebe9)
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e736f6d6e69612d3538343942453f7374796c653d666c61742d737175617265266c6f676f3d696e736f6d6e6961266c6f676f436f6c6f723d7768697465](https://github.com/ocjpe/ocjpe/assets/111350630/d215a19c-d1c8-4f1f-8425-1a71b234ea11)
@@ -15,13 +15,13 @@ I am a aspiring FullStack Developer currently studying to acquire the necessary 
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465](https://github.com/ocjpe/ocjpe/assets/111350630/37ec993c-c799-4944-a76d-b44c1b68c5d1)
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3433383533643f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465](https://github.com/ocjpe/ocjpe/assets/111350630/92f61b60-6003-48a0-ba3a-ef32398da410)
 
-## Interests
+# Interests
 - Exploring new technologies and frameworks
 - Continuous learning and personal development
 
-## Contact
+# Contact
 - Email: oceane.joppe@gmail.com
-- LinkedIn: [Océane Joppé]([https://www.linkedin.com/in/océane-joppé/])
+- LinkedIn: [Océane Joppé](https://www.linkedin.com/in/océane-joppé/)
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project. I'm always excited to connect with fellow developers and learn from others.
 
