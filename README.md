@@ -4,7 +4,8 @@
 I am a aspiring FullStack Developer currently studying to acquire the necessary skills and knowledge in this field. I'm passionate about creating web applications and exploring various technologies to build innovative solutions. Currently, I reside in Reims, France.
 
 ### Education
-- Développeur Informatique (in progress)
+- Diploma Advanced Technician called Développeur Informatique 
+- Bachelor's degree Conceptrice called Développeuse d'Application (in progress)
 
 ### Tech
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
