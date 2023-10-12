@@ -5,7 +5,7 @@ I am a aspiring FullStack Developer currently studying to acquire the necessary 
 
 ### Education
 - Diploma Advanced Technician called Développeur Informatique 
-- Bachelor's degree Conceptrice called Développeuse d'Application (in progress)
+- Bachelor's degree called Conceptrice Développeuse d'Application (in progress)
 
 ### Tech
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
